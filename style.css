@@ -1,0 +1,132 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&family=Lobster&display=swap');
+
+body {
+
+    background-color: #ebeff5;
+}
+
+.icen {
+    font-size: 140px;
+    font-family: 'lobster', Helvetica, sans-serif;
+    font-weight: 400;
+    background: linear-gradient(to bottom, #0814f4e7, rgb(9, 225, 240), hsl(39, 90%, 54%));
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+    position: absolute;
+    top: 148px;
+    left: 350px;
+}
+
+.slogan {
+    font-family: 'Sf pro display';
+    font-size: 28px;
+    position: absolute;
+    display: flex;
+    top: 280px;
+    left: 306px;
+}
+
+.login {
+    background-color: rgba(245, 231, 214, 0.297);
+    height: 400px;
+    width: 370px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 2px 3px #11111116;
+    position: absolute;
+    top: 100px;
+    left: 870px
+}
+
+.email{
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    border-radius: 5px;
+    background-color: cornsilk;
+    padding: 5px;
+}
+
+.input:hover {
+    transition: 0.4s ease-in-out;
+    transform: scale(1.02);
+    box-shadow: 1px 1px 2px rgba(10, 173, 243, 0.8);
+}
+
+.signin{
+    display: flex;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+    position: relative;
+    top: -120px;
+    width: fit-content;
+    border-radius: 6px;
+    left: 130px;
+    
+}
+
+/* did sigin styling in inline style because i dont know what's issue is coming but instead of inside the box of 'login' it is styling outside of box, so to style inside the box i did inline styling */
+.signin:hover {
+    transform: scale(1.1);
+    box-shadow: 1px 2px 3px rgb(10, 173, 243, 1.0);
+}
+
+.forget a{
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    color: black;
+    position: relative;
+    top: 18px;
+    left: -1px;
+}
+
+.forget:hover{
+    transition: 0.4s ease-in-out;
+    transform: scale(1.03);
+}
+
+.signup{
+    display: flex;
+    justify-content: center;
+    width:fit-content;
+    border-radius: 6px;
+    position: relative;
+    top: -85px;
+    left: 80px;
+    margin-top: 10px;
+}
+
+    .signup:hover{
+    transition: 0.4s ease-in-out;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 2px rgba( 118, 199, 55);
+}
+
+.mid{
+    display: flex;
+    justify-content: center;
+    justify-items: auto;
+    font-family: 'lobster';
+    font-weight: 400;
+    position: absolute;
+    left: 1040px;
+    top: 403px;
+}
+
+
+
+footer {
+        color: rgb(112, 101, 86);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        border: 0.7px solid #838383;
+        width: 27%;
+        border-radius: 30px;
+        position: absolute;
+        left: 540px;
+        top: 670px;
+    }
