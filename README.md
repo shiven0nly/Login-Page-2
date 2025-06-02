@@ -32,5 +32,5 @@ Basic responsive and clean front-end architecture
 ## ✍️ Author: Shiven
 📅 2025.
 🔐 All rights reserved.
-🙏 Please dont try to copy it or resue it.. 
+🙏 Please dont try to do unathorized copying, distribution, modification, or use in any form is strictly prohibited without explicit permission from the Author: Shiven.. 
 
