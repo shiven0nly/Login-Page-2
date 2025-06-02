@@ -26,10 +26,11 @@ Font imports from external sources
 UI/UX fundamentals (button feedback, shadow, hover)
 
 Basic responsive and clean front-end architecture
+
 ---
-## ✍️ Author
-Shiven
-📅 2025
+
+## ✍️ Author: Shiven
+📅 2025.
 🔐 All rights reserved.
 🙏 Please dont try to copy it or resue it.. 
 
