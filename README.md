@@ -25,7 +25,9 @@ Font imports from external sources
 
 UI/UX fundamentals (button feedback, shadow, hover)
 
-Basic responsive and clean front-end architecture
+Basic responsive and clean front-end architecture.
+
+MAYBE SITE IS NOT THAT RESPONSIVE YET !! I AM WORKING ON IT TO MAKE IT MORE REFINE And RESPONSIVE !!
 
 ---
 
